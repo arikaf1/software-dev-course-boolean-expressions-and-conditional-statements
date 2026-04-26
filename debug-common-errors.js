@@ -39,7 +39,7 @@ console.log("Welcome to the bootcamp");
 // Program B
 
 //Error Type: Runtime / Data Type Issue ("eight" is a string, not a number)
-let numbers = [2, 4, 8]; // ✅ Fix: changed "eight" → 8
+let numbers = [2, 4, 8]; // Fix: changed "eight" → 8
 
 for (let i = 0; i < numbers.length; i++) {
     let doubled = numbers[i] * 2;
